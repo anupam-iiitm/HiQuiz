@@ -31,7 +31,7 @@ It is designed not just as a quiz app, but as a modular **Evaluation Engine** ca
 > **Note for Recruiters:** The application features a fully responsive design optimized for mobile and desktop viewports.
 
 <div align="center"> 
-  <img src="https://via.placeholder.com/700x350?text=Application+Dashboard+Screenshot" alt="Dashboard" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);"/>
+  <img src="./dashboard-preview-2.png" alt="Dashboard" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.1);"/>
 </div>
 
 ---
